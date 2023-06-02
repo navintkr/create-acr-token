@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "acr_access_func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7293",
+      "launchBrowser": false
+    }
+  }
+}
